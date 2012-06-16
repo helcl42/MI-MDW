@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Mdw11Ws102t6/!svn/ver/131/projects/mdw-banka/lib
+END
+jsr311-api-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Mdw11Ws102t6/!svn/ver/131/projects/mdw-banka/lib/jsr311-api-1.1.1.jar
+END
+jersey-server-1.9-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Mdw11Ws102t6/!svn/ver/131/projects/mdw-banka/lib/jersey-server-1.9-SNAPSHOT.jar
+END
+jersey-core-1.9-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Mdw11Ws102t6/!svn/ver/131/projects/mdw-banka/lib/jersey-core-1.9-SNAPSHOT.jar
+END
+jersey-json-1.9-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Mdw11Ws102t6/!svn/ver/131/projects/mdw-banka/lib/jersey-json-1.9-SNAPSHOT.jar
+END
+objectify-3.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Mdw11Ws102t6/!svn/ver/131/projects/mdw-banka/lib/objectify-3.0.1.jar
+END
+jettison-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Mdw11Ws102t6/!svn/ver/131/projects/mdw-banka/lib/jettison-1.1.jar
+END
+asm-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Mdw11Ws102t6/!svn/ver/131/projects/mdw-banka/lib/asm-3.1.jar
+END
+jersey-client-1.9-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Mdw11Ws102t6/!svn/ver/131/projects/mdw-banka/lib/jersey-client-1.9-SNAPSHOT.jar
+END
+jackson-core-asl-1.8.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Mdw11Ws102t6/!svn/ver/131/projects/mdw-banka/lib/jackson-core-asl-1.8.3.jar
+END
